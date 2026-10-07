@@ -1,16 +1,13 @@
 <div align="center">
 
-# Rehan Illahi
+# Hassan Ali Alvi
 
 ### Full-Stack Software Developer
 **Mobile · Android TV · Web · SaaS · AI & Data · Business Systems**
 
 I design and build complete software products: Flutter apps on Google Play, Android TV experiences, full-stack web platforms, AI-enabled tools and internal business systems.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rehan--illahi.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://rehan-illahi.vercel.app/)
 [![All Repositories](https://img.shields.io/badge/GitHub-All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haa1117?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mrehanilahi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrehanilahi)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Rehan%20Ilahi-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/33178831/rehan-ilahi)
 
 </div>
 
@@ -92,13 +89,13 @@ A learning management system where instructors and students get AI tools grounde
 | **Edul-Insights** | Academic analytics dashboard surfacing at-risk students, performance trends and suggested interventions. | Python · Dash · Plotly · pandas · scikit-learn | [Source](https://github.com/haa1117/edul-insights-public) |
 | **Mood Screen** | Ambient video app that turns a phone or Android TV into a calm display, with weather-matched scenes, clock overlay and dimming. | Flutter · Riverpod · Kotlin · Android TV & phone | [Source](https://github.com/haa1117/mood-screen-public) |
 
-[**View all projects →**](https://github.com/haa1117?tab=repositories) · [**Full portfolio →**](https://rehan-illahi.vercel.app/)
+[**View all projects →**](https://github.com/haa1117?tab=repositories)
 
 ---
 
 ## Published Products
 
-A selection of apps with public Google Play listings (the full catalogue is on the [portfolio](https://rehan-illahi.vercel.app/)):
+A selection of apps with public Google Play listings (more are in the [repositories](https://github.com/haa1117?tab=repositories)):
 
 | App | What it is | Platform | Links |
 |---|---|---|---|
@@ -172,11 +169,8 @@ Project types my portfolio supports:
 
 <div align="center">
 
-[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://rehan-illahi.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-haa1117-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haa1117)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mrehanilahi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrehanilahi)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Rehan%20Ilahi-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/33178831/rehan-ilahi)
 
-To discuss a project, get in touch through the [portfolio](https://rehan-illahi.vercel.app/) or [LinkedIn](https://www.linkedin.com/in/mrehanilahi).
+To discuss a project, get in touch through the links above.
 
 </div>
