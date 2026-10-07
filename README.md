@@ -2,13 +2,14 @@
 
 # Hassan Ali Alvi
 
-### Full-Stack Software Developer
+### Full-Stack Software Developer · BS Data Science (GIKI)
 **Mobile · Android TV · Web · SaaS · AI & Data · Business Systems**
 
-I design and build complete software products: Flutter apps on Google Play, Android TV experiences, full-stack web platforms, AI-enabled tools and internal business systems.
+Data Science graduate and software developer building mobile, Android TV, full-stack web, AI/ML and custom business applications, with apps live on Google Play.
 
 [![All Repositories](https://img.shields.io/badge/GitHub-All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haa1117?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan%20Ali%20Alvi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-alvi-ba398111b)
+[![Download CV](https://img.shields.io/badge/Download-CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/haa1117/web-portfolio-public/raw/main/public/Hassan-Ali-Alvi-CV.pdf)
 
 </div>
 
@@ -16,7 +17,7 @@ I design and build complete software products: Flutter apps on Google Play, Andr
 
 ## About
 
-I build software across the full product lifecycle: architecture and UI, development, integrations, testing and release. My public work covers:
+Data Science graduate from GIKI and software developer, currently working on Android products at Future Watch (Google Play Billing, AdMob, Firebase, Firestore sync, automated releases), with earlier experience in AI/ML, data engineering and business analysis. The public portfolio below covers:
 
 - **Full-stack web applications** and SaaS-style products
 - **Flutter mobile apps**, several of them live on Google Play
@@ -74,6 +75,23 @@ A learning management system where instructors and students get AI tools grounde
 
 ---
 
+## Experience
+
+| | |
+|---|---|
+| **Future Watch** · Jun 2025 – Present | Android applications with Google Play Billing, AdMob, Firebase Authentication and Firestore real-time sync; optimised lean-back and custom UI layouts; full-stack mobile delivery with API integrations, secure cloud data flows and automated releases. |
+| **Confiz Limited** · Jun – Aug 2024 | AI/ML projects: model-accuracy improvements with TensorFlow and PyTorch, working with cross-functional teams to integrate AI into existing systems. |
+| **ADDO AI** · May – Jun 2024 | AI models, predictive analytics and automation; processing 100K+ record datasets for AI training. |
+
+**Earlier experience:** Lucrum (Power BI dashboards, ERP analysis) · NETSOL Technologies (market and business-opportunity analysis) · Shaukat Khanum Cancer Memorial Hospital (funding and sponsor-relations support)
+
+## Education
+
+- **Ghulam Ishaq Khan University of Engineering Sciences and Technology (GIKI)**: BS Data Science · 2021 – 2025. Final-year project: [AGRO SCAN](https://github.com/haa1117/agro-scan-public), an AI + IoT agriculture-monitoring system sponsored by the Higher Education Commission of Pakistan.
+- **Aitchison College Lahore**: O Levels & A Levels · Mathematics, Physics, Computer Science
+
+---
+
 ## Selected Projects
 
 | Project | What it does | Stack / Platform | Links |
@@ -114,7 +132,7 @@ A selection of apps with public Google Play listings (more are in the [repositor
 
 ## Technology Stack
 
-Technologies below are the ones used across the projects above.
+Technologies below are the ones used across the projects above and listed in the CV.
 
 **Languages**
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -123,6 +141,9 @@ Technologies below are the ones used across the projects above.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Frontend & Mobile**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -146,12 +167,20 @@ Technologies below are the ones used across the projects above.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 **AI & Data Science**
 ![LangGraph](https://img.shields.io/badge/LangChain%20%2F%20LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**Leadership & activities:** General Secretary, Aitchison College Chess Society (2020–2021) · Event Co-ordinator, GIKI Science Society (2025) and All Pakistan Science Fair (2024–2025) · Captain, Aitchison College Squash Team (2021) · Best Director, Aitchison Art Fest (2020)
 
 ---
 
@@ -173,6 +202,6 @@ Project types my portfolio supports:
 [![GitHub](https://img.shields.io/badge/GitHub-haa1117-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haa1117)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan%20Ali%20Alvi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-alvi-ba398111b)
 
-To discuss a project, connect on [LinkedIn](https://www.linkedin.com/in/hassan-alvi-ba398111b).
+To discuss a project, connect on [LinkedIn](https://www.linkedin.com/in/hassan-alvi-ba398111b), email [hassanalialvi1117@gmail.com](mailto:hassanalialvi1117@gmail.com) or [download my CV](https://github.com/haa1117/web-portfolio-public/raw/main/public/Hassan-Ali-Alvi-CV.pdf).
 
 </div>
