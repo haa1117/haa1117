@@ -8,6 +8,7 @@
 I design and build complete software products: Flutter apps on Google Play, Android TV experiences, full-stack web platforms, AI-enabled tools and internal business systems.
 
 [![All Repositories](https://img.shields.io/badge/GitHub-All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haa1117?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan%20Ali%20Alvi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-alvi-ba398111b)
 
 </div>
 
@@ -170,7 +171,8 @@ Project types my portfolio supports:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-haa1117-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haa1117)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan%20Ali%20Alvi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-alvi-ba398111b)
 
-To discuss a project, get in touch through the links above.
+To discuss a project, connect on [LinkedIn](https://www.linkedin.com/in/hassan-alvi-ba398111b).
 
 </div>
